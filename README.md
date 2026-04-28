@@ -1,4 +1,3 @@
 # single-page-cv
-Single Page CV
+Single Page CV URL - https://github.com/MatMatzZ/single-page-cv
 
-https://roadmap.sh/projects/single-page-cv
